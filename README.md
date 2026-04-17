@@ -13,3 +13,20 @@ Practice the professional "Feature Branch" workflow by forking, cloning, and con
 
 ### Command History 
 Complete this README.md with the commands you used to complete the tasks above. 
+
+
+git clone https://github.com/Dhruvjalan/manager-starter-repo.git  
+
+cd manager-starter-repo  
+
+git checkout -b ankita
+
+git branch
+
+code .
+
+git add .
+
+git commit -m "Editted readme document with the commands used "
+
+git push origin ankita
