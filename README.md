@@ -18,7 +18,7 @@ git clone https://github.com/Dhruvjalan/manager-starter-repo.git
 
 cd manager-starter-repo  
 
-git checkout -b ankita
+git checkout -b ankitadas
 
 git branch
 
@@ -28,7 +28,7 @@ git add .
 
 git commit -m "Editted readme document with the commands used "
 
-git push origin ankita
+git push origin ankitadas
 
 
 
